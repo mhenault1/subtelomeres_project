@@ -9,7 +9,10 @@
 - **assemblies.ipynb**: de novo assembly of YJM948
 - **subtelomere_structure.ipynb**: resolution of Y' arrays structure
 - **growth_curves_HU.ipynb**: phenotyping in permissive conditions and hydroxyurea
+- **gwas.R**: GWAS on WT isolates
+- **qtl.R**: QTL on haploid spores
 - **genotype_phenotype_analysis.ipynb**: GWAS on WT isolates and QTL on haploid spores
+- **differential_expression.R**: differential expression models
 - **expression_profiling.ipynb**: transcriptome profiling analysis
 - **growth_curves_complementation.ipynb**: growth curve for MoBY-ORF plasmids
 - **microscopy.ipynb**: microscopy analysis
