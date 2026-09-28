@@ -1,0 +1,10 @@
+YJM947.contigs.fasta
+YJM948.contigs.fasta
+YJM954.contigs.fasta
+YJM955.contigs.fasta
+YJM956.contigs.fasta
+YJM957.contigs.fasta
+YJM963.contigs.fasta
+YJM964.contigs.fasta
+YJM965.contigs.fasta
+YJM967.contigs.fasta
